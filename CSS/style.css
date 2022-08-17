@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    width: 1150px;
+    height: 390px;
+    margin: 100px auto;
+}
+
+ul {
+    float: left;
+    width: 350px;
+    height: 390px;
+    list-style: none;
+}
+
+ul li {
+    float: left;
+    width: 170px;
+    height: 190px;
+}
+
+.box .left {
+    margin-right: 50px;
+}
+
+.box .right {
+    margin-left: 50px;
+}
+
+.box .big {
+    float: left;
+    width: 350px;
+    height: 390px;
+}
